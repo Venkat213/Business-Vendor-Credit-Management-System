@@ -1,0 +1,71 @@
+.SignUp{
+    background: rgb(34,193,195);
+    background: linear-gradient(135deg, rgba(34,193,195,1) 0%,     rgba(253,187,45,1) 100%);
+    font-family: "work sans";
+    font-size: 100%;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    position: absolute;
+}
+
+#introTop{
+    margin: 4px 25px;
+    color: gray;
+    border-radius: 15px;
+    background-color: white;
+}
+
+#SignUpForm{
+    padding-top: 5vh;
+    max-width: 700px;
+    min-width: 300px;
+    max-height: 750px;
+    width: 70%;
+    height: 60%;
+    margin: 100px auto;
+    background-color: #ffffffd5;
+    border-radius: 19px;
+    margin-top: 3%;
+}
+
+.firstName{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+.LastName{
+    width: 40%; 
+    float: right;
+    margin-right: 5%;
+}
+
+.email{
+    width: 40%; 
+    float: left;
+    margin-left: 5%;
+}
+
+.number{
+    width: 40%; 
+    float: right;
+    margin-right: 5%;
+}
+
+.password{
+    width: 40%; 
+    float: left;
+    margin-left: 5%;
+}
+
+.Confirm-password{
+    width: 40%; 
+    float: right;
+    margin-right: 5%;
+}
+
+.nextBtn{
+    margin-top: 5%;
+    width: 35%;
+}

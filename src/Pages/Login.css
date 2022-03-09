@@ -1,0 +1,61 @@
+.login1{
+    background-color: #6EF4F7;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "work sans";
+    font-size: 100%;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    position: absolute;
+}
+
+#introTop{
+    margin: 5px 5px;
+    color: gray;
+    border-radius: 15px;
+    background-color: transparent;
+}
+
+#loginForm{
+    display: inline-block;
+    padding-top: 5vh;
+    max-width: 800px;
+    min-width: 300px;
+    max-height: 750px;
+    width: 20rem;
+    height: 27rem;
+    background-color: #ffffff;
+    border-radius: 19px;
+}
+
+.username{
+    width: 75%;
+    margin-left: 13%;
+}
+
+.pass{
+    width: 75%;
+    margin-left: 13%;
+}
+
+.btn{
+    width: 82%;
+    margin-right: 8%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.create{
+    padding-bottom: 10%
+}
+
+.imgLogin{
+    display: inline-block;
+    width: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600|Work+Sans:400,500,600,700&display=swap');
